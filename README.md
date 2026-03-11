@@ -53,6 +53,9 @@ src/
 
 ---
 
+<img width="1381" height="730" alt="image" src="https://github.com/user-attachments/assets/657db899-856e-4aa7-956a-2c9043ce2408" />
+
+
 ▶️ How to Run the Project
 
 1. Clone the repository
